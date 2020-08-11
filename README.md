@@ -1,4 +1,4 @@
-# video_calling_app
+# Conversa Video Calling App
 
 A new Flutter application.
 
